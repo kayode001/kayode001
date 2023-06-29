@@ -1,13 +1,28 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/kayode-olayiwola/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+<!--  <a href="https://kayodeolayiwola.medium.com/">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+  </a> -->
+  <a href="https://twitter.com/kayode0layiwola">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+</div>
+
+
 
 # I am Kayode Olayiwola
 
 [Software Engineer | Tech Enthusiast | Open Source Contributor | Forensic Expert]
 
-## About Me
+## About Me 💬 
 I am a passionate software engineer with a strong background in engineering leadership and a drive to create innovative solutions. With expertise in full-stack development and a focus on building scalable and robust applications, I thrive in fast-paced environments where technology meets business challenges. My goal is to leverage technology to drive positive change and deliver exceptional user experiences.
 
-## Skills
+## Skills 🔥 
 - Programming Languages: Python, JavaScript, Java, php
 - Web Development: HTML/CSS, React, Node.js, Express.js, VueJS.
 - Database Technologies: MySQL, MongoDB, DynamoDB, Postgres
@@ -16,7 +31,7 @@ I am a passionate software engineer with a strong background in engineering lead
 - Devops
 - Agile Methodologies
 
-## Experience
+## Experience 🔭
 ### Head of Engineering | Prembly
 #### Washington, United States  | Nov 2022  - Present
 
@@ -32,21 +47,21 @@ I am a passionate software engineer with a strong background in engineering lead
 - Conducted thorough testing and debugging to ensure the delivery of high-quality, bug-free software.
 
 
-## Education
+## Education 📚 
 - Bachelor of Science in Computer Science | Icons University | 2022
 - Diploma in Computer science | Lagos state politechnic | 2018
 
-## Open Source Contributions
+## Open Source Contributions ⚡
 - Contributed to various open-source projects.
 - Actively participated in community discussions and provided support to fellow developers on platforms like GitHub and Stack Overflow.
 
-## Certifications
+## Certifications  ✨
 - AWS Solution Architect | 2022
   
 
-## Contact Me
+## Contact Me 📫
 - LinkedIn: [Kayode Olayiwola](https://www.linkedin.com/in/kayode-olayiwola/)
-- GitHub: [github.com/yourusername](https://github.com/kayode001)
+- GitHub: [github.com/kayode001](https://github.com/kayode001)
 - Email: olayiwolakayode07@gmail.com
 - Phone: +2348155388796
 
