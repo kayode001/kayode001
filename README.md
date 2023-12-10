@@ -20,7 +20,7 @@
 [Software Engineer | Tech Enthusiast | Open Source Contributor | Forensic Expert]
 
 ## About Me 💬 
-I am a passionate software engineer with a strong background in engineering leadership and a drive to create innovative solutions. With expertise in full-stack development and a focus on building scalable and robust applications, I thrive in fast-paced environments where technology meets business challenges. My goal is to leverage technology to drive positive change and deliver exceptional user experiences.
+Kayode Olayiwola is a passionate software engineer with a strong background in engineering leadership and a drive to create innovative solutions. With expertise in full-stack development and a focus on building scalable and robust applications, I thrive in fast-paced environments where technology meets business challenges. My goal is to leverage technology to drive positive change and deliver exceptional user experiences.
 
 ## Skills 🔥 
 - Programming Languages: Python, JavaScript, Java, php
@@ -54,6 +54,9 @@ I am a passionate software engineer with a strong background in engineering lead
 ## Open Source Contributions ⚡
 - Contributed to various open-source projects.
 - Actively participated in community discussions and provided support to fellow developers on platforms like GitHub and Stack Overflow.
+
+## Consultant ⚡
+- Engineering Lead for the 3 Million Technical Talent (3MTT) - This programme is a critical part of the Renewed Hope agenda of the Nigerian government, it is aimed at building Nigeria’s technical talent backbone to power our digital economy and position Nigeria as a net talent exporter. The first phase of the programme, executed in collaboration with NITDA, involves multiple stakeholders including fellows, training providers, partners and placement organisations.
 
 ## Certifications  ✨
 - AWS Solution Architect | 2022
