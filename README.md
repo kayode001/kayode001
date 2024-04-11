@@ -64,6 +64,8 @@ Kayode Olayiwola is a passionate software engineer with a strong background in e
 
 ## Contact Me 📫
 - LinkedIn: [Kayode Olayiwola](https://www.linkedin.com/in/kayode-olayiwola/)
+- Website: [Kayode Olayiwola](https://kayodeolayiwola.com/)
+- Twitter: [Kayode Olayiwola](https://twitter.com/kayode0layiwola)
 - GitHub: [github.com/kayode001](https://github.com/kayode001)
 - Email: olayiwolakayode07@gmail.com
 - Phone: +2348155388796
