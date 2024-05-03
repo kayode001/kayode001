@@ -19,7 +19,7 @@
 
 [Software Engineer | Tech Enthusiast | Open Source Contributor | Forensic Expert]
 
-## About Me 💬 
+## About 💬 
 Kayode Olayiwola is a passionate software engineer with a strong background in engineering leadership and a drive to create innovative solutions. With expertise in full-stack development and a focus on building scalable and robust applications, I thrive in fast-paced environments where technology meets business challenges. My goal is to leverage technology to drive positive change and deliver exceptional user experiences.
 
 ## Skills 🔥 
