@@ -15,7 +15,7 @@
 
 
 
-# I am Kayode Olayiwola
+# Kayode Olayiwola
 
 [Software Engineer | Tech Enthusiast | Open Source Contributor | Forensic Expert]
 
